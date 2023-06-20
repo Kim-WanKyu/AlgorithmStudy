@@ -1,4 +1,5 @@
-# <a href="https://www.acmicpc.net/step/1">백준 단계별로 풀어보기 단계: 1</a>
+# 백준 단계별로 풀어보기 
+> <a href="https://www.acmicpc.net/step/1" target="_blank">단계: 1</a>
 
 #
 - 제목: 입출력과 사칙연산
