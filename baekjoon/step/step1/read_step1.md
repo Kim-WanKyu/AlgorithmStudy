@@ -28,7 +28,7 @@
       <tr><td colspan="3">네 개의 계산식을 계산하는 문제. 이 문제를 푼 다음에는 직접 입력을 만들어서 넣어 봅시다. 어떤 사실을 관찰할 수 있나요?</td></tr>
       <tr><td>10</td><td>2588</td><td><a href="https://www.acmicpc.net/problem/2588">곱셈</a></td></tr>
       <tr><td colspan="3">빈 칸에 들어갈 수는?</td></tr>
-      <tr><td>11</td><td>11382</td><td><a href="https://www.acmicpc.net/problem/11832">꼬마 정민</a></td></tr>
+      <tr><td>11</td><td>11382</td><td><a href="https://www.acmicpc.net/problem/11382">꼬마 정민</a></td></tr>
       <tr><td colspan="3">더 큰 수를 더하는 문제</td></tr>
       <tr><td>12</td><td>10171</td><td><a href="https://www.acmicpc.net/problem/10171">고양이</a></td></tr>
       <tr><td colspan="3">\, ' 등의 문자에 주의하며 고양이를 출력하는 문제</td></tr>
