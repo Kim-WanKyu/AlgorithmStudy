@@ -16,7 +16,7 @@
       <tr><td colspan="3">1부터 N까지의 합을 구하는 문제. 물론 반복문 없이 풀 수도 있습니다.</td></tr>
       <tr><td>4</td><td>25304</td><td><a href="https://www.acmicpc.net/problem/25304">영수증</a></td></tr>
       <tr><td colspan="3">💸</td></tr>
-      <tr><td>5</td><td>	25314</td><td><a href="https://www.acmicpc.net/problem/	25314">코딩은 체육과목 입니다</a></td></tr>
+      <tr><td>5</td><td>25314</td><td><a href="https://www.acmicpc.net/problem/25314">코딩은 체육과목 입니다</a></td></tr>
       <tr><td colspan="3">코딩 공부를 잘 하여 이렇게 long long long long...을 칠판에 적는 일이 없도록 합시다.</td></tr>
       <tr><td>6</td><td>15552</td><td><a href="https://www.acmicpc.net/problem/15552">빠른 A+B</a></td></tr>
       <tr><td colspan="3">빠르게 입력받고 출력하는 문제</td></tr>
