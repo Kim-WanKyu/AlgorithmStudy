@@ -20,11 +20,11 @@
       <tr><td colspan="3">√N까지만 나눠서 소수를 판별하는 문제</td></tr>
       <tr><td>6</td><td>1929</td><td><a href="https://www.acmicpc.net/problem/1929">소수 구하기</a></td></tr>
       <tr><td colspan="3">위 문제의 테크닉을 쓰거나 에라토스테네스의 체를 써서 범위 안의 모든 소수를 구하는 문제</td></tr>
-      <tr><td>7</td><td>4948</td><td><a href="https://www.acmicpc.net/problem/4948">대칭 차집합</a></td></tr>
-      <tr><td colspan="3">둘 중 한 집합에만 속하는 원소를 모두 구하는 문제</td></tr>
-      <tr><td>8</td><td>17103</td><td><a href="https://www.acmicpc.net/problem/17103">서로 다른 부분 문자열의 개수</a></td></tr>
+      <tr><td>7</td><td>4948</td><td><a href="https://www.acmicpc.net/problem/4948">베르트랑 공준</a></td></tr>
+      <tr><td colspan="3">소수를 더 자유자재로 다루는 문제 1</td></tr>
+      <tr><td>8</td><td>17103</td><td><a href="https://www.acmicpc.net/problem/17103">골드바흐 파티션</a></td></tr>
       <tr><td colspan="3">소수를 더 자유자재로 다루는 문제 2</td></tr>
-      <tr><td>8</td><td>13909</td><td><a href="https://www.acmicpc.net/problem/13909">서로 다른 부분 문자열의 개수</a></td></tr>
+      <tr><td>8</td><td>13909</td><td><a href="https://www.acmicpc.net/problem/13909">창문 닫기</a></td></tr>
       <tr><td colspan="3">배수와 약수에 대한 재미있는 문제</td></tr>
     </tbody>
   </table>
