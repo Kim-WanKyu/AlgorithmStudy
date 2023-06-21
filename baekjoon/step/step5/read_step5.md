@@ -22,7 +22,7 @@
       <tr><td colspan="3">한 단어에서 각 알파벳이 처음 등장하는 위치를 찾는 문제</td></tr>
       <tr><td>7</td><td>2675</td><td><a href="https://www.acmicpc.net/problem/2675">문자열 반복</a></td></tr>
       <tr><td colspan="3">각 문자를 반복하여 출력하는 문제</td></tr>
-      <tr><td>8</td><td>1152td><td><a href="https://www.acmicpc.net/problem/1152">단어의 개수</a></td></tr>
+      <tr><td>8</td><td>1152</td><td><a href="https://www.acmicpc.net/problem/1152">단어의 개수</a></td></tr>
       <tr><td colspan="3">단어의 개수를 구하는 문제</td></tr>
       <tr><td>9</td><td>2908</td><td><a href="https://www.acmicpc.net/problem/2908">상수</a></td></tr>
       <tr><td colspan="3">숫자를 뒤집어서 비교하는 문제</td></tr>
