@@ -28,7 +28,7 @@
       <tr><td colspan="3">숫자를 뒤집어서 비교하는 문제</td></tr>
       <tr><td>10</td><td>5622</td><td><a href="https://www.acmicpc.net/problem/5622">다이얼</a></td></tr>
       <tr><td colspan="3">규칙에 따라 문자에 대응하는 수를 출력하는 문제</td></tr>
-      <tr><td>11<td><td>11718</td><td><a href="https://www.acmicpc.net/problem/11718">그대로 출력하기</a></td></tr>
+      <tr><td>11</td><td>11718</td><td><a href="https://www.acmicpc.net/problem/11718">그대로 출력하기</a></td></tr>
       <tr><td colspan="3">그대로 출력하기</td></tr>
     </tbody>
   </table>
