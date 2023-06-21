@@ -20,9 +20,7 @@
       <tr><td colspan="3">"대략적으로"만 파악해도 자신의 코드가 시간 초과가 날 지 아닐지를 어느 정도 예측할 수 있습니다.</td></tr>
       <tr><td>6</td><td>24267</td><td><a href="https://www.acmicpc.net/problem/24267">알고리즘 수업 - 알고리즘의 수행 시간 6</a></td></tr>
       <tr><td colspan="3">그 역할을 하는 것이 바로 시간 복잡도입니다.</td></tr>
-      <tr><td>7</td><td>5073</td><td><a href="https://www.acmicpc.net/problem/5073">삼각형과 세 변</a></td></tr>
-      <tr><td colspan="3">변의 길이를 보고 삼각형을 판별하고 분류하는 문제</td></tr>
-      <tr><td>8</td><td>24313</td><td><a href="https://www.acmicpc.net/problem/24313">알고리즘 수업 - 점근적 표기 1</a></td></tr>
+      <tr><td>7</td><td>24313</td><td><a href="https://www.acmicpc.net/problem/24313">알고리즘 수업 - 점근적 표기 1</a></td></tr>
       <tr><td colspan="3">시간 복잡도는 빅-O 표기법으로 표현할 수 있습니다. 정확한 정의보다는 "이 함수에 비례한다" 정도만 기억해도 무방합니다.</td></tr>
     </tbody>
   </table>
